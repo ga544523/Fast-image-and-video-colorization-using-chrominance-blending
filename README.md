@@ -1,5 +1,9 @@
 # Fast image and video colorization using chrominance blending 
-i hope i implement [it https://ieeexplore.ieee.org/document/1621234] correctly 
+ https://ieeexplore.ieee.org/document/1621234
+
+
+
+i hope i implement it correctly 
 
 ![image](https://github.com/ga544523/de/blob/main/result/vegresult.PNG?raw=true)
 
