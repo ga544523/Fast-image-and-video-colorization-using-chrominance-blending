@@ -1,5 +1,5 @@
-# colorization 
-i hope i implement it correctly
+# Fast image and video colorization using chrominance blending 
+i hope i implement it correctly 
 
 ![image](https://github.com/ga544523/de/blob/main/result/vegresult.PNG?raw=true)
 
